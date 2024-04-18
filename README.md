@@ -19,6 +19,7 @@
 
 ## CS
 
+- [폭포수 방법론과 애자일 방법론](https://velog.io/@yeomjung95/CS-%ED%8F%AD%ED%8F%AC%EC%88%98-%EB%B0%A9%EB%B2%95%EB%A1%A0%EA%B3%BC-%EC%95%A0%EC%9E%90%EC%9D%BC-%EB%B0%A9%EB%B2%95%EB%A1%A0)
 - [프로세스(Process)와 스레드(Thread)의 차이](https://velog.io/@yeomjung95/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4Process%EC%99%80-%EC%8A%A4%EB%A0%88%EB%93%9CThread%EC%9D%98-%EC%B0%A8%EC%9D%B4)
 
 ---
