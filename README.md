@@ -11,7 +11,7 @@
 
 
 ### React
-- [React의 Virtaul DOM](https://velog.io/@yeomjung95/React-React%EC%9D%98-Virtual-DOM)
+- [React의 Virtual DOM](https://velog.io/@yeomjung95/React-React%EC%9D%98-Virtual-DOM)
 - [useState VS useRef](https://velog.io/@yeomjung95/React-useState-VS-useRef)
 
 
