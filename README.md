@@ -42,3 +42,11 @@
 
 ### 교육
 - [UX & DX를 고려한 디자인 시스템 만들기](https://velog.io/@yeomjung95/UX-DX%EB%A5%BC-%EB%8B%A4-%EC%B1%99%EA%B8%B4-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EA%B5%90%EC%9C%A1-%ED%9B%84%EA%B8%B0)
+
+
+---
+
+## 회고
+
+### 2024
+- [취준 프론트엔드 개발자 4월 회고]()
