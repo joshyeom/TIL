@@ -16,6 +16,7 @@
 - [배열 데이터 렌더링 시에 key값](https://velog.io/@yeomjung95/React-%EB%AA%A9%EB%A1%9D-%EB%A0%8C%EB%8D%94%EB%A7%81-%EC%8B%9C%EC%97%90-Key%EA%B0%92)
 - [React의 Virtual DOM](https://velog.io/@yeomjung95/React-React%EC%9D%98-Virtual-DOM)
 - [useState VS useRef](https://velog.io/@yeomjung95/React-useState-VS-useRef)
+- [React는 Call by value에요, Call by reference에요?](https://velog.io/@yeomjung95/React%EB%8A%94-Call-by-value%EC%97%90%EC%9A%94-Call-by-reference%EC%97%90%EC%9A%94)
 
 
 
