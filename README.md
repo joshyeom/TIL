@@ -42,6 +42,7 @@
 
 
 ### 교육
+- [누구보다 강하게 빛나는 주니어 개발자가 되는 방법](https://velog.io/@yeomjung95/%ED%9B%84%EA%B8%B0-%EB%88%84%EA%B5%AC%EB%B3%B4%EB%8B%A4-%EA%B0%95%ED%95%98%EA%B2%8C-%EB%B9%9B%EB%82%98%EB%8A%94-%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EB%8A%94-%EB%B0%A9%EB%B2%95-%EC%9D%B8%ED%94%84%EB%9F%B0-%EA%B0%95%EC%9D%98-by.-%EA%B9%80%EC%9D%80%ED%98%9C%EB%8B%98)
 - [UX & DX를 고려한 디자인 시스템 만들기](https://velog.io/@yeomjung95/UX-DX%EB%A5%BC-%EB%8B%A4-%EC%B1%99%EA%B8%B4-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EA%B5%90%EC%9C%A1-%ED%9B%84%EA%B8%B0)
 
 
