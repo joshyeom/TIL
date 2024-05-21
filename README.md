@@ -12,6 +12,7 @@
 
 
 ### React
+- [왜 함수형 컴포넌트를 사용할까?](https://velog.io/@yeomjung95/React-%EC%99%9C-%ED%95%A8%EC%88%98%ED%98%95-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%A0%EA%B9%8C)
 - [Suspense](https://velog.io/@yeomjung95/React-Suspense)
 - [왜 Fragment를 사용할까?](https://velog.io/@yeomjung95/React-Fragment%EB%A5%BC-%EC%99%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80)
 - [props drilling](https://velog.io/@yeomjung95/React-Props-Drilling%EA%B3%BC-%EC%A0%84%EC%97%AD-%EC%83%81%ED%83%9C)
