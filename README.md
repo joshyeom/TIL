@@ -34,6 +34,7 @@
 
 ## Web
 
+- [Google에 왜 내 블로그 글이 안 나올까](https://velog.io/@yeomjung95/Google%EC%97%90-%EB%82%B4-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B8%80-%EA%B2%80%EC%83%89-%EB%90%98%EA%B2%8C-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [CORS동작원리](https://velog.io/@yeomjung95/Web-CORS-%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC)
 - [JWT란?](https://velog.io/@yeomjung95/JWT%EB%9E%80)
 
