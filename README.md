@@ -5,6 +5,7 @@
 ## 스택
 
 ### JavaScript
+- [참조형 데이터는 왜 가변형인가?](https://velog.io/@yeomjung95/JS-%EC%B0%B8%EC%A1%B0%ED%98%95-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%8A%94-%EC%99%9C-%EA%B0%80%EB%B3%80%ED%98%95-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%B8%EA%B0%80-%EC%BD%94%EC%96%B4-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8)
 - [얕은복사와 깊은복사](https://velog.io/@yeomjung95/JavaScript-%EC%96%95%EC%9D%80%EB%B3%B5%EC%82%AC%EC%99%80-%EA%B9%8A%EC%9D%80%EB%B3%B5%EC%82%AC)
 - [실행컨텍스트와 호이스팅 그리고 클로저](https://velog.io/@yeomjung95/Javascript-%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%99%80-%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85%ED%81%B4%EB%A1%9C%EC%A0%80%EC%9D%98-%EA%B4%80%EA%B3%84)
 - [바닐라 자바스크립트로 SPA 만들기](https://velog.io/@yeomjung95/Javascript-%EB%B0%94%EB%8B%90%EB%9D%BC-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%A1%9C-SPA-%EB%A7%8C%EB%93%A4%EA%B8%B0)
