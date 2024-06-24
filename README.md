@@ -5,6 +5,7 @@
 ## 스택
 
 ### JavaScript
+- [난해한 this](https://velog.io/@yeomjung95/JS-%EB%82%9C%ED%95%B4%ED%95%9C-this)
 - [실행 컨텍스트를 다시 공부하며](https://velog.io/@yeomjung95/JS-%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EB%8B%A4%EC%8B%9C-%EA%B3%B5%EB%B6%80%ED%95%98%EB%A9%B0-%EC%BD%94%EC%96%B4-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8)
 - [참조형 데이터는 왜 가변형인가?](https://velog.io/@yeomjung95/JS-%EC%B0%B8%EC%A1%B0%ED%98%95-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%8A%94-%EC%99%9C-%EA%B0%80%EB%B3%80%ED%98%95-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%B8%EA%B0%80-%EC%BD%94%EC%96%B4-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8)
 - [얕은복사와 깊은복사](https://velog.io/@yeomjung95/JavaScript-%EC%96%95%EC%9D%80%EB%B3%B5%EC%82%AC%EC%99%80-%EA%B9%8A%EC%9D%80%EB%B3%B5%EC%82%AC)
