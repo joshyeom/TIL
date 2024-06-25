@@ -15,6 +15,7 @@
 
 
 ### React
+- [전역 상태 관리 라이브러리 비교](https://velog.io/@yeomjung95/React-%EC%A0%84%EC%97%AD-%EC%83%81%ED%83%9C-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EB%B9%84%EA%B5%90)
 - [전역 상태는 관리는 언제 사용할까?](https://velog.io/@yeomjung95/React-%EC%A0%84%EC%97%AD-%EC%83%81%ED%83%9C-%EA%B4%80%EB%A6%AC%EB%8A%94-%EC%96%B8%EC%A0%9C-%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C)
 - [왜 함수형 컴포넌트를 사용할까?](https://velog.io/@yeomjung95/React-%EC%99%9C-%ED%95%A8%EC%88%98%ED%98%95-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%A0%EA%B9%8C)
 - [Suspense](https://velog.io/@yeomjung95/React-Suspense)
