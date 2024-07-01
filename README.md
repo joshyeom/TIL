@@ -64,6 +64,7 @@
 ## 회고
 
 ### 2024
+- [취준 프론트엔드 개발자 6월 회고](https://velog.io/@yeomjung95/%ED%9A%8C%EA%B3%A0-%EC%B7%A8%EC%A4%80%EC%83%9D-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-6%EC%9B%94-%ED%9A%8C%EA%B3%A0)
 - [취준 프론트엔드 개발자 5월 회고](https://velog.io/@yeomjung95/%ED%9A%8C%EA%B3%A0-%EC%B7%A8%EC%A4%80%EC%83%9D-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-5%EC%9B%94-%ED%9A%8C%EA%B3%A0)
 - [기술 면접 스터디 한달 회고](https://velog.io/@yeomjung95/%ED%9A%8C%EA%B3%A0-%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%8A%A4%ED%84%B0%EB%94%94-%ED%95%9C%EB%8B%AC-%ED%9A%8C%EA%B3%A0)
 - [취준 프론트엔드 개발자 4월 회고](https://velog.io/@yeomjung95/%EC%B7%A8%EC%A4%80-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-4%EC%9B%94-%ED%9A%8C%EA%B3%A0)
