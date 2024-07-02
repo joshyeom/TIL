@@ -2,7 +2,7 @@
 
 
 
-## 스택
+## 스택 학습
 
 ### JavaScript
 - [난해한 this](https://velog.io/@yeomjung95/JS-%EB%82%9C%ED%95%B4%ED%95%9C-this)
