@@ -49,6 +49,7 @@
 ## 커뮤니티 활동
 
 ### 세션
+- [GDG 상사 후기](https://velog.io/@yeomjung95/%EC%84%B8%EC%85%98-GDG-%EC%83%81%EC%82%AC-%ED%9B%84%EA%B8%B0)
 - [주니어 개발자를 위한 개발일정 산출 노하우 - 한빛앤 미디어 후기](https://velog.io/@yeomjung95/%EC%84%B8%EC%85%98-%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A0%95-%EC%82%B0%EC%B6%9C-%EB%85%B8%ED%95%98%EC%9A%B0-%ED%95%9C%EB%B9%9B%EC%95%A4-%EB%AF%B8%EB%94%94%EC%96%B4-%ED%9B%84%EA%B8%B0)
 - [우땅콘(우당탕탕 도서관 컨퍼런스) 후기](https://velog.io/@yeomjung95/%EC%84%B8%EC%85%98-%EC%9A%B0%EB%95%85%EC%BD%98%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95-%EB%8F%84%EC%84%9C%EA%B4%80-%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4-%ED%9B%84%EA%B8%B0)
 
