@@ -5,6 +5,7 @@
 ## 스택 학습
 
 ### JavaScript
+- [클로저를 다시 공부하며](https://velog.io/@yeomjung95/JS-%ED%81%B4%EB%A1%9C%EC%A0%80%EB%A5%BC-%EB%8B%A4%EC%8B%9C-%EA%B3%B5%EB%B6%80%ED%95%98%EB%A9%B0)
 - [콜백 함수](https://velog.io/@yeomjung95/%EC%BD%9C%EB%B0%B1%ED%95%A8%EC%88%98)
 - [난해한 this](https://velog.io/@yeomjung95/JS-%EB%82%9C%ED%95%B4%ED%95%9C-this)
 - [실행 컨텍스트를 다시 공부하며](https://velog.io/@yeomjung95/JS-%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EB%8B%A4%EC%8B%9C-%EA%B3%B5%EB%B6%80%ED%95%98%EB%A9%B0-%EC%BD%94%EC%96%B4-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8)
