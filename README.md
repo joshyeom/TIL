@@ -51,6 +51,7 @@
 ## 커뮤니티 활동
 
 ### 세션
+- [비즈니스 마인드를 가진 개발자가 되는 방법](https://velog.io/@yeomjung95/%EC%84%B8%EC%85%98-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EB%A7%88%EC%9D%B8%EB%93%9C%EB%A5%BC-%EA%B0%80%EC%A7%84-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EB%8A%94-%EB%B0%A9%EB%B2%95-%EA%B5%AC%EB%A6%84-COMMIT-%ED%9B%84%EA%B8%B0)
 - [퇴근길 밋업 #6 테스트 코드 후기](https://velog.io/@yeomjung95/%ED%8C%90%EA%B5%90-%ED%87%B4%EA%B7%BC%EA%B8%B8-%EB%B0%8B%EC%97%85-06-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9C-%ED%9B%84%EA%B8%B0)
 - [GDG 상사 후기](https://velog.io/@yeomjung95/%EC%84%B8%EC%85%98-GDG-%EC%83%81%EC%82%AC-%ED%9B%84%EA%B8%B0)
 - [주니어 개발자를 위한 개발일정 산출 노하우 - 한빛앤 미디어 후기](https://velog.io/@yeomjung95/%EC%84%B8%EC%85%98-%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A0%95-%EC%82%B0%EC%B6%9C-%EB%85%B8%ED%95%98%EC%9A%B0-%ED%95%9C%EB%B9%9B%EC%95%A4-%EB%AF%B8%EB%94%94%EC%96%B4-%ED%9B%84%EA%B8%B0)
