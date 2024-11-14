@@ -19,6 +19,7 @@
 
 
 ### React
+- [useQueries로 DX와 UX 두 마리 토끼 잡기](https://velog.io/@yeomjung95/useQueries%EB%A1%9C-DX%EC%99%80-UX-%EB%91%90-%EB%A7%88%EB%A6%AC-%EC%9E%A1%EA%B8%B0)
 - [가상 DOM 좀 더 알아보기](https://velog.io/@yeomjung95/%EB%AA%A8%EB%8D%98-%EB%A6%AC%EC%95%A1%ED%8A%B8-Deep-Dive-%EA%B0%80%EC%83%81-DOM-%EC%A2%80-%EB%8D%94-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
 - [전역 상태 관리 라이브러리 비교](https://velog.io/@yeomjung95/React-%EC%A0%84%EC%97%AD-%EC%83%81%ED%83%9C-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EB%B9%84%EA%B5%90)
 - [전역 상태는 관리는 언제 사용할까?](https://velog.io/@yeomjung95/React-%EC%A0%84%EC%97%AD-%EC%83%81%ED%83%9C-%EA%B4%80%EB%A6%AC%EB%8A%94-%EC%96%B8%EC%A0%9C-%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C)
