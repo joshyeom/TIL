@@ -38,7 +38,8 @@
 
 ## CS
 
-
+- [리팩터링과 카피 온 라이트 - 쏙쏙 들어오는 함수형 코딩](https://velog.io/@yeomjung95/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81%EA%B3%BC-%EC%B9%B4%ED%94%BC-%EC%98%A8-%EB%9D%BC%EC%9D%B4%ED%8A%B8-%EC%8F%99%EC%8F%99-%EB%93%A4%EC%96%B4%EC%98%A4%EB%8A%94-%ED%95%A8%EC%88%98%ED%98%95-%EC%BD%94%EB%94%A9)
+- [함수형 프로그래밍과 함수형 사고 - 쏙쏙 들어오는 함수형 코딩](https://velog.io/@yeomjung95/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC-%ED%95%A8%EC%88%98%ED%98%95-%EC%82%AC%EA%B3%A0-%EC%8F%99%EC%8F%99-%EB%93%A4%EC%96%B4%EC%98%A4%EB%8A%94-%ED%95%A8%EC%88%98%ED%98%95-%EC%BD%94%EB%94%A9)
 - [명령형 프로그램, 선언형 프로그램 (javascript)](https://velog.io/@yeomjung95/CS-%EB%AA%85%EB%A0%B9%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%84%A0%EC%96%B8%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-javascript)
 - [폭포수 방법론과 애자일 방법론](https://velog.io/@yeomjung95/CS-%ED%8F%AD%ED%8F%AC%EC%88%98-%EB%B0%A9%EB%B2%95%EB%A1%A0%EA%B3%BC-%EC%95%A0%EC%9E%90%EC%9D%BC-%EB%B0%A9%EB%B2%95%EB%A1%A0)
 - [프로세스(Process)와 스레드(Thread)의 차이](https://velog.io/@yeomjung95/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4Process%EC%99%80-%EC%8A%A4%EB%A0%88%EB%93%9CThread%EC%9D%98-%EC%B0%A8%EC%9D%B4)
