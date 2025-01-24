@@ -76,6 +76,7 @@
 ## 회고
 
 ### 2024
+- [3개월 근무 한 첫 직장(SI) 퇴사 부검 - 주니어 개발자 회고](https://velog.io/@yeomjung95/3%EA%B0%9C%EC%9B%94-%EA%B7%BC%EB%AC%B4-%ED%95%9C-%EC%B2%AB-%EC%A7%81%EC%9E%A5SI-%ED%87%B4%EC%82%AC-%EB%B6%80%EA%B2%80-%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%9A%8C%EA%B3%A0-lsmhh3dj)
 - [오르고 나니 보이는 것들 - 신입 주니어 개발자 2024 회고](https://velog.io/@yeomjung95/%EC%98%A4%EB%A5%B4%EA%B3%A0-%EB%82%98%EB%8B%88-%EB%B3%B4%EC%9D%B4%EB%8A%94-%EA%B2%83%EB%93%A4-%EC%8B%A0%EC%9E%85-%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90-2024-%ED%9A%8C%EA%B3%A0)
 - [취준생 프론트엔드 개발자의 10월 회고 (完)
 ](https://velog.io/@yeomjung95/%ED%9A%8C%EA%B3%A0-%EC%B7%A8%EC%A4%80%EC%83%9D-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-10%EC%9B%94-%ED%9A%8C%EA%B3%A0-%E5%AE%8C)
