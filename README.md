@@ -1,6 +1,21 @@
 # TIL
 
+## 회고
 
+### 2025
+- [주도적인 수습기간 보내기 - 주니어 개발자 2월 회고](https://velog.io/@yeomjung95/%EC%A3%BC%EB%8F%84%EC%A0%81%EC%9D%B8-%EC%88%98%EC%8A%B5%EA%B8%B0%EA%B0%84-%EB%B3%B4%EB%82%B4%EA%B8%B0-%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90-2%EC%9B%94-%ED%9A%8C%EA%B3%A0)
+- [3개월 근무 한 첫 직장(SI) 퇴사 부검 - 주니어 개발자 회고](https://velog.io/@yeomjung95/3%EA%B0%9C%EC%9B%94-%EA%B7%BC%EB%AC%B4-%ED%95%9C-%EC%B2%AB-%EC%A7%81%EC%9E%A5SI-%ED%87%B4%EC%82%AC-%EB%B6%80%EA%B2%80-%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%9A%8C%EA%B3%A0-lsmhh3dj)
+
+### 2024
+
+- [오르고 나니 보이는 것들 - 신입 주니어 개발자 2024 회고](https://velog.io/@yeomjung95/%EC%98%A4%EB%A5%B4%EA%B3%A0-%EB%82%98%EB%8B%88-%EB%B3%B4%EC%9D%B4%EB%8A%94-%EA%B2%83%EB%93%A4-%EC%8B%A0%EC%9E%85-%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90-2024-%ED%9A%8C%EA%B3%A0)
+- [취준생 프론트엔드 개발자의 10월 회고 (完)
+](https://velog.io/@yeomjung95/%ED%9A%8C%EA%B3%A0-%EC%B7%A8%EC%A4%80%EC%83%9D-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-10%EC%9B%94-%ED%9A%8C%EA%B3%A0-%E5%AE%8C)
+- [취준생 프론트엔드 개발자의 9월 회고](https://velog.io/@yeomjung95/%ED%9A%8C%EA%B3%A0-%EC%B7%A8%EC%A4%80%EC%83%9D-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-9%EC%9B%94-%ED%9A%8C%EA%B3%A0)
+- [취준생 프론트엔드 개발자의 8월 회고](https://velog.io/@yeomjung95/%ED%9A%8C%EA%B3%A0-%EC%B7%A8%EC%A4%80%EC%83%9D-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-8%EC%9B%94-%ED%9A%8C%EA%B3%A0)
+- [취준생 프론트엔드 개발자의 7월 회고](https://velog.io/@yeomjung95/%ED%9A%8C%EA%B3%A0-%EC%B7%A8%EC%A4%80%EC%83%9D-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-7%EC%9B%94-%ED%9A%8C%EA%B3%A0)
+
+---
 
 ## 스택 학습
 
@@ -70,19 +85,6 @@
 - [누구보다 강하게 빛나는 주니어 개발자가 되는 방법](https://velog.io/@yeomjung95/%ED%9B%84%EA%B8%B0-%EB%88%84%EA%B5%AC%EB%B3%B4%EB%8B%A4-%EA%B0%95%ED%95%98%EA%B2%8C-%EB%B9%9B%EB%82%98%EB%8A%94-%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EB%8A%94-%EB%B0%A9%EB%B2%95-%EC%9D%B8%ED%94%84%EB%9F%B0-%EA%B0%95%EC%9D%98-by.-%EA%B9%80%EC%9D%80%ED%98%9C%EB%8B%98)
 - [UX & DX를 고려한 디자인 시스템 만들기](https://velog.io/@yeomjung95/UX-DX%EB%A5%BC-%EB%8B%A4-%EC%B1%99%EA%B8%B4-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EA%B5%90%EC%9C%A1-%ED%9B%84%EA%B8%B0)
 
-
----
-
-## 회고
-
-### 2024
-- [3개월 근무 한 첫 직장(SI) 퇴사 부검 - 주니어 개발자 회고](https://velog.io/@yeomjung95/3%EA%B0%9C%EC%9B%94-%EA%B7%BC%EB%AC%B4-%ED%95%9C-%EC%B2%AB-%EC%A7%81%EC%9E%A5SI-%ED%87%B4%EC%82%AC-%EB%B6%80%EA%B2%80-%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%9A%8C%EA%B3%A0-lsmhh3dj)
-- [오르고 나니 보이는 것들 - 신입 주니어 개발자 2024 회고](https://velog.io/@yeomjung95/%EC%98%A4%EB%A5%B4%EA%B3%A0-%EB%82%98%EB%8B%88-%EB%B3%B4%EC%9D%B4%EB%8A%94-%EA%B2%83%EB%93%A4-%EC%8B%A0%EC%9E%85-%EC%A3%BC%EB%8B%88%EC%96%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90-2024-%ED%9A%8C%EA%B3%A0)
-- [취준생 프론트엔드 개발자의 10월 회고 (完)
-](https://velog.io/@yeomjung95/%ED%9A%8C%EA%B3%A0-%EC%B7%A8%EC%A4%80%EC%83%9D-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-10%EC%9B%94-%ED%9A%8C%EA%B3%A0-%E5%AE%8C)
-- [취준생 프론트엔드 개발자의 9월 회고](https://velog.io/@yeomjung95/%ED%9A%8C%EA%B3%A0-%EC%B7%A8%EC%A4%80%EC%83%9D-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-9%EC%9B%94-%ED%9A%8C%EA%B3%A0)
-- [취준생 프론트엔드 개발자의 8월 회고](https://velog.io/@yeomjung95/%ED%9A%8C%EA%B3%A0-%EC%B7%A8%EC%A4%80%EC%83%9D-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-8%EC%9B%94-%ED%9A%8C%EA%B3%A0)
-- [취준생 프론트엔드 개발자의 7월 회고](https://velog.io/@yeomjung95/%ED%9A%8C%EA%B3%A0-%EC%B7%A8%EC%A4%80%EC%83%9D-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-7%EC%9B%94-%ED%9A%8C%EA%B3%A0)
 - [취준 프론트엔드 개발자의 6월 회고](https://velog.io/@yeomjung95/%ED%9A%8C%EA%B3%A0-%EC%B7%A8%EC%A4%80%EC%83%9D-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-6%EC%9B%94-%ED%9A%8C%EA%B3%A0)
 - [취준 프론트엔드 개발자의 5월 회고](https://velog.io/@yeomjung95/%ED%9A%8C%EA%B3%A0-%EC%B7%A8%EC%A4%80%EC%83%9D-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-5%EC%9B%94-%ED%9A%8C%EA%B3%A0)
 - [기술 면접 스터디 한달 회고](https://velog.io/@yeomjung95/%ED%9A%8C%EA%B3%A0-%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%8A%A4%ED%84%B0%EB%94%94-%ED%95%9C%EB%8B%AC-%ED%9A%8C%EA%B3%A0)
